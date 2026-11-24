@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Original dataset
+raw_dataset.csv
+
+# Python cache
+__pycache__/
+*.pyc
